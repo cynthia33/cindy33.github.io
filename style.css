@@ -1,0 +1,31 @@
+.navbar{
+	background-color: black;
+	text-decoration-color: white;
+}
+.col-xs-12{
+	position: center;
+}
+h1{
+	font-weight: 260px;
+}
+.bigfernand{
+	text-align: justify;
+}
+.eatsalad{
+	text-align: justify;
+}
+.tripletta{
+	text-align: justify;
+}
+.navbar-form{
+	align-content: center;
+}
+.btn{
+	text-align: justify;
+}
+.applications{
+	vertical-align: top;
+}
+.copyright{
+	text-align: top;
+}
